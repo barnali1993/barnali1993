@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Address, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Martha Halli, Above HCFC Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-8550028333
 		barnali.rath1993@gmail.com
