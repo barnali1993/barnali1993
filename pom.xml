@@ -147,7 +147,15 @@
 				</configuration>
 			</plugin>
 			
-</plugins>
+			<plugin>
+				<groupId>*</groupId>
+				<artifactId>*</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>*</groupId>
+				<artifactId>*</artifactId>
+			</plugin>
+		</plugins>
 	</build>
 	
 	
